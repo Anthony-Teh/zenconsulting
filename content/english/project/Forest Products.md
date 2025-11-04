@@ -12,7 +12,7 @@ image: "images/project/lumber.jpg"
 # client
 client: "New Zealand"
 # project category
-category: "Project Governance"
+category: "Manufacturing"
 # project status
 status : "Completed"
 draft: false
