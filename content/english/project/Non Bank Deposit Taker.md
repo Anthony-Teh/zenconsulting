@@ -14,8 +14,8 @@ client: "New Zealand"
 # project category
 category: "Financial Services"
 # project status
-status : "Completed"
-draft: yes
+status : "In Progress"
+draft: true
 ---
 
 NBS (Nelson Building Society) has been providing financial services to residential and commercial clients for over 160 years. They’re proudly owned by clients and reinvest profits back into the local community. With a strong focus on serving the community, they constantly look for innovative ways to add-value to their clients.
