@@ -133,7 +133,14 @@ testimonial:
     - client_image : "images/testimonial/panpac.jpg"
       name : "Ross McMillan"
       designation : "Chief Financial Officer, Pan Pac"
-      content : "Rowan has always given balanced, and considered advice based on his wide experience in ERP Implementations. His ability to give good governance and risk advice has been a vital cog in the Project’s success. Also his ability to help with practical and pragmatic advice for BAU has been much appreciated."
+      content : "Zen Consulting has always given balanced, and considered advice based on his wide experience in ERP Implementations. His ability to give good governance and risk advice has been a vital cog in the Project’s success. Also his ability to help with practical and pragmatic advice for BAU has been much appreciated."
+
+    # testimonial item loop
+    - client_image : "images/testimonial/nbs.jpg"
+      name : "David Toon"
+      designation : "Chief Financial Officer, Nelson Building Society"
+      content : "Zen Consulting’s forward-thinking approach has helped us identify efficiencies and future opportunities. Their partnership has been instrumental in shaping our strategic roadmap."
+
 
 ################################# feature ############################################
 feature:
