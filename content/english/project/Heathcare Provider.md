@@ -15,31 +15,32 @@ client: "New Zealand"
 category: "Healthcare"
 # project status
 status : "Completed"
-draft: false
+draft: true
 ---
 
-Our client is one of New Zealand’s largest nationwide provider of community health, disability and wellbeing group, supporting over 30,000 people to get on with making the most of life in their own homes, communities and work places. Our client has been successful in building capabilities and innovating services to support the community better. These capabilities are sourced from different business lines that work in conjunction depending on the needs of clients. A priority for our client is to ensure their customers are supported in a highly efficient manner with consistent customer experience.
+New Zealand Health Group (NZHG) is “New Zealand’s largest nationwide provider of community health, disability and wellbeing group, supporting over 30,000 people to get on with making the most of life in their own homes, communities and work places”1. NZHG has been successful in building capabilities and innovating services to support the community better. These capabilities are sourced from different business lines that work in conjunction to deliver a wide range of healthcare services to clients. A priority for NZHG is to ensure clients are supported in a highly efficient manner with consistent customer experience.
 
 ### The Challenge
-Our client needed external assistance to generate improvement ideas for addressing inefficiencies and inconsistencies in processes. These inefficiencies in many cases resulted in excessive manual effort and ultimately a higher cost to serve clients. In particular a core process was processing claims on behalf of clients for government funding. This process comprised of a number of administrative resources from different business lines.
+NZHG needed an independent facilitator who could work with a wide range of internal stakeholders to identify opportunities for greater efficiencies. They needed a trusted advisor who could bring the best practices of Lean and IT to define ideal-state processes enabled by technology.
 
 ### Key Outcomes
-Our engagement helped our client achieve the following outcomes:
-1. Captured the current-state processes of client claims for each business line to show variations
-2. Developed a single ideal-state process for client claims that would provide consistency between the business lines
-3. Identified measurable value-added vs. non-value-added effort in both current-state and ideal-state processes
-4. Generated several improvement ideas to the claims process with the potential to:
-    1. remove signficant manual effort resulting in annual operational savings
-    2. standardise client and employee journies across business lines
-    3. successfully ran Lean event workshops virtually with attendees from various branches.
+Our engagement helped NZHG achieve the following outcomes:
+1. Conducted current-state assessments across business lines from client and employee onboarding through to client discharging and employee offboarding.
+2. Deep-dived into processes across operations, finance and human resources.
+3. Successfully ran onsite and virtual Lean events with attendees from various locations throughout NZ.
+4. Measured the cost to serve of processes to prioritise the case of change and improvements.
+5. Presented assessments in detailed reports for further business casing and solution scoping and design.
+
+>*"xxxx.”* 
+>**Ramesh Vedachalam (Chief Financial Officer, NZ Health Group).**
 
 ### Our Difference
 We provided key differentiators to traditional consulting approaches:
-1. Structured approach leveraging best practice Lean value stream analysis and mapping
-2. Highly engaging workshops designed for remote sessions using virtual whiteboard
-3. Deep experience with examples from other organisations to provide insights
-4. Data gathering templates and accelerators to automate Lean analysis
-5. Strong focus on stakeholder alignment to ensure change journey towards improvement implementation
+1. Pragmatic approach leveraging best practice Lean value stream analysis and mapping.
+2. Highly engaging workshops designed for remote sessions using virtual whiteboard.
+3. Deep experience with examples from other organisations to provide insights.
+4. Data gathering templates and accelerators to automate Lean analysis.
+5. Strong focus on stakeholder alignment to ensure change journey towards improvement implementation.
 6. Simple, but comprehensive reporting and documentation suitable for executive as well as teams.
 
 ### Conclusion
