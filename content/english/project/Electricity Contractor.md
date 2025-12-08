@@ -26,19 +26,19 @@ Driving consistent service delivery to customers across different contracting br
 They needed external help that could act independently and bring together its teams to facilitate sessions from a position of neutrality. Rowan Teh was engaged to drive consistency and efficiency in the design estimation process. A key challenge for Rowan was bringing together stakeholders from various geographies to standardise the design estimation process and make it Lean.
 
 ### Key Outcomes
-Rowan produced a clear roadmap for making improvements to the design estimation process based on data-driven decisions. Following Rowan's process improvement approach enabled them to:
+We produced a clear roadmap for making improvements to the design estimation process based on data-driven decisions. Following Rowan's process improvement approach enabled them to:
 1. Unite stakeholders across all regional offices on a common definition for major, minor and customer tender project work as well as their current-state processes
 2. Identify measurable value-add, non-value add and waiting times and associated cost to the business
 3. Capture, prioritise and track progress of completing improvements
 4. Develop staff in Lean to instil a culture of continuous improvement.
 
 ### Our Difference
-Rowan was the chosen partner for the organisation, offering unique services for process excellence that:
+We were the chosen partner for the organisation, offering unique services for process excellence that:
 1. Combined world class Lean techniques, deep Energy and Utilities industry knowledge to ensure targeted outcomes for organisations
 2. Applied a process improvement methodology, which accelerates the traditional Lean approach. During the transformation journey, Lean events were ‘rapidly’ completed, value stream analysis ‘reported’, and improvements generated to ‘reimagine’ the process. This was all achieved in virtual workshop sessions to cater for the geographically spread stakeholders and restrictions due to Covid
 3. Supported working in a virtual work environment embracing the use of digital tools. We used digital tools to capture inputs from workshop participants by walking through the end-to-end current-state of the design estimation process.
 
 ### Conclusion
-Rowan simply offered a uniquely different and data-driven way of understanding business requirements and generating an ideal-state. Rowan provided an electricity benchmarked process structure template to align the their processes with an industry standard taxonomy. This provided them with a guiding structure for capturing current-state processes as well as potentially value-adding processes universally accepted as industry standards. By following this structure, they could be easily translated into system requirements that many solutions align to.
+We simply offered a uniquely different and data-driven way of understanding business requirements and generating an ideal-state. Rowan provided an electricity benchmarked process structure template to align the their processes with an industry standard taxonomy. This provided them with a guiding structure for capturing current-state processes as well as potentially value-adding processes universally accepted as industry standards. By following this structure, they could be easily translated into system requirements that many solutions align to.
 
 If you’re looking for a trusted advisor for process excellence, with a difference, [**contact us**](https://zenconsulting.co.nz/contact/).

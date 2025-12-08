@@ -24,13 +24,13 @@ The organisation is synonymous with innovative print and imaging technology, wit
 A major challenge for their digital transformation journey was modernising its core finance and operations to optimise their supply chain. They knew they had to introduce new systems as well as re-engineer their processes to industry leading best practices. But, where to start and how to collaborate with all stakeholders to align to new systems and practices? They needed leadership and support to understand what good would look like in their business to overcome inefficiencies and governance during the digital transformation.
 
 ### Key Outcomes
-They have realised the benefits from their digital transformation focusing on value-add and removing waste. More specifically, Rowan Teh enabled them to achieve:
+They have realised the benefits from their digital transformation focusing on value-add and removing waste. More specifically,we enabled them to achieve:
 1. A clear understanding of their ideal-state from the digital transformation, supported by processes and systems design
 2. Project governance to continue identifying, measuring and tracking inefficiencies in processes during the digital transformation
 3. An approach that collaborated and aligned stakeholders to clearly understanding their requirements before jumping to a solution.
 
 ### Our Difference
-Rowan was the chosen partner for them, offering unique services to provide process excellence and project governance that:
+We were the chosen partner for them, offering unique services to provide process excellence and project governance that:
 1. Delivered leading industry standard processes as a template
 2. Provided Lean analysis of processes saving time and cost
 3. Surfaced key areas of inefficiencies to generate improvements based on process data
@@ -39,6 +39,6 @@ Rowan was the chosen partner for them, offering unique services to provide proce
 6. Independent project governance and QA to ensure value is realised during the system implementation.
 
 ### Conclusion
-Rowan simply offered a uniquely different and data-driven way of understanding business requirements and generating an ideal-state for a digital transformation. Rowan provided a process structure template using APQC’s Process Classification Framework® to align their processes with an industry standard taxonomy. This provided them with a guiding structure for capturing current-state processes as well as potentially value-adding processes universally accepted as industry standards. By following this structure, they could be easily translated into system requirements that many solutions align to.
+We simply offered a uniquely different and data-driven way of understanding business requirements and generating an ideal-state for a digital transformation. We provided a process structure template using APQC’s Process Classification Framework® to align their processes with an industry standard taxonomy. This provided them with a guiding structure for capturing current-state processes as well as potentially value-adding processes universally accepted as industry standards. By following this structure, they could be easily translated into system requirements that many solutions align to.
 
 If you’re looking for a trusted advisor for process excellence and project governance, with a difference, [**contact us**](https://zenconsulting.co.nz/contact/).

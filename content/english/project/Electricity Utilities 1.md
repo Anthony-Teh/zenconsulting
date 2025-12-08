@@ -26,7 +26,7 @@ Implementing new EAM and financial systems present significant risks to business
 It is with these risks in mind, they made the bold decision to undertake a Lean approach by analysing current processes and pinpointing significant areas of “waste”. They needed a partner that would help them with aspects of the change journey from people and process challenges, through to technology implementation.
 
 ### Key Outcomes
-Rowan Teh helped them achieve the following:
+We helped them achieve the following:
 1. United stakeholders across the business on a common vision and understanding of current-state processes with areas of improvements, ready for the new systems implementation
 2. Identified value-add and non-value added activities across nearly 100 processes with measurable effort and cost
 3. Accelerated business case benefits with the commencement of quick-wins from over 150 generated and trackable improvements
@@ -35,7 +35,7 @@ Rowan Teh helped them achieve the following:
 6. Independent project governance and QA to ensure value is realised during the system implementations.
 
 ### Our Difference
-The key differences in using Rowan included:
+The key differences in using us included:
 1. Delivered leading industry standard processes as a template
 2. Provided Lean analysis of processes to measure waste as part of validating requirements
 3. Surfaced key areas of inefficiencies to generate improvements based on process data
@@ -44,6 +44,6 @@ The key differences in using Rowan included:
 6. Independent project governance and QA to ensure value is realised during the system implementation.
 
 ### Conclusion
-Rowan simply offered a uniquely different and data-driven way of understanding business requirements and generating an ideal-state for a digital transformation. Rowan provided an electricity benchmarked process structure template to align their processes with an industry standard taxonomy. This provided them with a guiding structure for capturing current-state processes as well as potentially value-adding processes universally accepted as industry standards. By following this structure, they could be easily translated into system requirements that many solutions align to.
+We simply offered a uniquely different and data-driven way of understanding business requirements and generating an ideal-state for a digital transformation. We provided an electricity benchmarked process structure template to align their processes with an industry standard taxonomy. This provided them with a guiding structure for capturing current-state processes as well as potentially value-adding processes universally accepted as industry standards. By following this structure, they could be easily translated into system requirements that many solutions align to.
 
 If you’re looking for a trusted advisor for process excellence and project governance, with a difference, [**contact us**](https://zenconsulting.co.nz/contact/).
