@@ -14,7 +14,7 @@ client: "New Zealand"
 # project category
 category: "Financial Services"
 # project status
-status : "Completed"
+status: "Completed"
 draft: false
 ---
 
