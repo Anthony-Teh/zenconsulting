@@ -25,7 +25,7 @@ NZHG needed an independent facilitator who could work with a wide range of inter
 
 ### Key Outcomes
 Our engagement helped NZHG achieve the following outcomes:
-1. Conducted current-state assessments across business lines from client and employee onboarding through to client discharging and employee offboarding.
+1. Conducted current-state assessments across of funder, client and employee journeys.
 2. Deep-dived into processes across operations, finance and human resources.
 3. Successfully ran onsite and virtual Lean events with attendees from various locations throughout NZ.
 4. Measured the cost to serve of processes to prioritise the case of change and improvements.
@@ -37,10 +37,10 @@ Our engagement helped NZHG achieve the following outcomes:
 ### Our Difference
 We provided key differentiators to traditional consulting approaches:
 1. Pragmatic approach leveraging best practice Lean value stream analysis and mapping.
-2. Highly engaging workshops designed for remote sessions using virtual whiteboard.
-3. Deep experience with examples from other organisations to provide insights.
+2. Highly engaging workshops using a virtual whiteboard for remote sessions.
+3. Deep experience with examples from other organisations to provide industry insights.
 4. Data gathering templates and accelerators to automate Lean analysis.
-5. Strong focus on stakeholder alignment to ensure change journey towards improvement implementation.
+5. Strong focus on stakeholder alignment to support their change journey towards realising improvements.
 6. Simple, but comprehensive reporting and documentation suitable for executive as well as teams.
 
 ### Conclusion
