@@ -28,20 +28,20 @@ The organisation, a payments services and solutions provider, needed to implemen
 5. Seeking to consolidate and rationalise the number of platforms across subsidiaries to create more synergies and remove duplication.
 
 ### Key Outcomes
-Rowan Teh's engagement helped them achieve the following outcomes:
+Our engagement helped them achieve the following outcomes:
 1. Developed and implemented industry standard IT policies and procedures to complement their global Digital strategy and TOM
 2. Established Infrastructure and Network Centers of Excellence by defining standards, internal IT processes and a future roadmap
 3. Programme managed the assessment and migration of a subsidiary’s hosting to public cloud
 4. Assessed the current-state of platforms across subsidiaries and derived a future-state business architecture and solution design that rationalised the number of platforms.
 
 ### Our Difference
-Rowan provided key differentiators to traditional consulting approaches:
+We provided key differentiators to traditional consulting approaches:
 1. Applied a consultative approach to engaging stakeholders globally
 2. Strong knowledge and experience of IT best practices to apply to Centre’s of Excellence
 3. Templated all approaches to be repeatable with more acquisitions
 4. Built consensus on value and vision to identify quick wins.
 
 ### Conclusion
-Rowan facilitated an approach that successfully fulfilled the requirements of this organisation in a structured and pragmatic manner.
+We facilitated an approach that successfully fulfilled the requirements of this organisation in a structured and pragmatic manner.
 
 If you’re looking for a trusted advisor for process excellence, with a difference, [**contact us**](https://zenconsulting.co.nz/contact/).

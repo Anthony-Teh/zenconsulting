@@ -24,13 +24,13 @@ The organisation owns and operates the electricity distribution network to over 
 They needed to implement a public safety management system (PSMS) to comply with public safety standards. This required systems and processes to be in place for hazard and incident recording, and reporting. They needed a partner who could help with capturing their current-state processes and developing streamlined optimised-state processes that supported a PSMS.
 
 ### Key Outcomes
-Rowan Teh helped them achieve the following:
+We helped them achieve the following:
 1.	Documented current-state processes with identified gaps and challenges, role mapping, data records, and systems
 2.	Documented optimised-state processes with improvement points
 3.	Documented key systems in the enterprise architecture that support the optimised-state processes.
 
 ### Our Difference
-The key differences in using Rowan included:
+The key differences in using us included:
 1.	Provided deep understanding of electricity distribution industry
 2.	Applied Lean value stream analysis on processes to measure waste
 3.	Incorporated industry standards on PSMS for incident and hazard reporting
