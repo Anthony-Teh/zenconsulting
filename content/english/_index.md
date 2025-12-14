@@ -133,7 +133,7 @@ testimonial:
     - client_image : "images/testimonial/panpac.jpg"
       name : "Ross McMillan"
       designation : "Chief Financial Officer, Pan Pac"
-      content : "Zen Consulting has always given balanced, and considered advice based on his wide experience in ERP Implementations. Their ability to give good governance and risk advice has been a vital cog in the Project’s success. Also their ability to help with practical and pragmatic advice for BAU has been much appreciated."
+      content : "Zen Consulting has always given balanced, and considered advice based on their wide experience in ERP Implementations. Their ability to give good governance and risk advice has been a vital cog in the Project’s success. Also their ability to help with practical and pragmatic advice for BAU has been much appreciated."
 
     # testimonial item loop
     - client_image : "images/testimonial/nbs.jpg"
