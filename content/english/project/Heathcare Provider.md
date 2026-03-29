@@ -18,7 +18,7 @@ status : "Completed"
 draft: false
 ---
 
-New Zealand Health Group (NZHG) is “New Zealand’s largest nationwide provider of community health, disability and wellbeing group, supporting over 30,000 people to get on with making the most of life in their own homes, communities and work places”1. NZHG has been successful in building capabilities and innovating services to support the community better. These capabilities are sourced from different business lines that work in conjunction to deliver a wide range of healthcare services to clients. A priority for NZHG is to ensure clients are supported in a highly efficient manner with consistent customer experience.
+New Zealand Health Group (NZHG) is “New Zealand’s largest nationwide provider of community health, disability and wellbeing group, supporting over 30,000 people to get on with making the most of life in their own homes, communities and work places”[(NZHG Website)](https://www.nzhealthgroup.com/). NZHG has been successful in building capabilities and innovating services to support the community better. These capabilities are sourced from different business lines that work in conjunction to deliver a wide range of healthcare services to clients. A priority for NZHG is to ensure clients are supported in a highly efficient manner with consistent customer experience.
 
 ### The Challenge
 NZHG needed an independent facilitator who could work with a wide range of internal stakeholders to identify opportunities for greater efficiencies. They needed a trusted advisor who could bring the best practices of Lean and IT to define ideal-state processes enabled by technology.
