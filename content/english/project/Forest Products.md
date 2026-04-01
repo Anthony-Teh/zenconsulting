@@ -31,7 +31,7 @@ Through our engagement, Pan Pac was able to achieve the following outcomes:
 4. Independent voice in steering committee meetings to hold Pan Pac and vendors accountable
 5. Redesign of the IT function to support the ERP system in a BAU-state.
 
->*"Rowan Teh has always given balanced, and considered advice based on his wide experience in ERP Implementations. His ability to give good governance and risk advice has been a vital cog in the Project’s success. Also his ability to help with practical and pragmatic advice for BAU has been much appreciated.”* 
+>*"Zen Consulting has always given balanced, and considered advice based on their wide experience in ERP Implementations. Their ability to give good governance and risk advice has been a vital cog in the Project’s success. Also their ability to help with practical and pragmatic advice for BAU has been much appreciated.”* 
 >**Ross McMillan (Chief Financial Officer, Pan Pac).**
 
 ### Our Difference

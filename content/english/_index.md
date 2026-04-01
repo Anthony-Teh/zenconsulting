@@ -133,7 +133,7 @@ testimonial:
     - client_image : "images/testimonial/panpac.jpg"
       name : "Ross McMillan"
       designation : "Chief Financial Officer, Pan Pac"
-      content : "Zen Consulting has always given balanced, and considered advice based on his wide experience in ERP Implementations. His ability to give good governance and risk advice has been a vital cog in the Project’s success. Also his ability to help with practical and pragmatic advice for BAU has been much appreciated."
+      content : "Zen Consulting has always given balanced, and considered advice based on their wide experience in ERP Implementations. Their ability to give good governance and risk advice has been a vital cog in the Project’s success. Also their ability to help with practical and pragmatic advice for BAU has been much appreciated."
 
     # testimonial item loop
     - client_image : "images/testimonial/nbs.jpg"
@@ -141,6 +141,11 @@ testimonial:
       designation : "Chief Financial Officer, Nelson Building Society"
       content : "Zen Consulting’s forward-thinking approach has helped us identify efficiencies and future opportunities. Their partnership has been instrumental in shaping our strategic roadmap."
 
+   # testimonial item loop
+    - client_image : "images/testimonial/nzhg.jpg"
+      name : "Ramesh Vedachalam"
+      designation : "Chief Financial Officer, NZ Health Group"
+      content : "Working with Zen Consulting was informative as they helped us untangle the complexity in our processes and pinpoint what was really holding us back. Thanks to their skilled facilitation, we brought together stakeholders from across the business, built alignment, and made confident, enterprise-wide investment decisions."
 
 ################################# feature ############################################
 feature:
