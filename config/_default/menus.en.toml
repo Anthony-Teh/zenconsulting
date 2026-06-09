@@ -2,19 +2,24 @@
 
 # main menu
 [[main]]
-name = "Services"
+name = "What we do"
 url = "service/"
 weight = 1
 
 [[main]]
-name = "Customers"
+name = "Where we work"
 url = "project/"
 weight = 2
 
 [[main]]
-name = "About"
+name = "Who we are"
 url = "about/"
 weight = 3
+
+[[main]]
+name = "What we think"
+url = "blog/"
+weight = 4
 
 # footer menu
 [[footer]]

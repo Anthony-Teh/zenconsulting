@@ -13,7 +13,7 @@ image: "images/blog/post-1.jpg"
 author: "Rowan Teh"
 # taxonomies
 categories: ["Process Excellence"]
-tags: ["Lean"]
+tags: []
 ---
 
 Beyond the horizon an opportunity exists for businesses to embrace a new normal. Companies need to focus on protecting their core business and minimising costs to deliver their products and/or services. In 2019, Gartner's CEO Survey ranked 'Productivity and Efficiency' as amongst the top most strategic business priorities for 2020 and beyond, and stating "organisations need to lean up for more efficiency and scale".
@@ -30,16 +30,19 @@ For companies that choose to be brave and take action in investing in operationa
 
 3. **Create ownership among staff to make improvements.**  People buy-in remains the biggest hurdle in any change initiative. In my experience I've found the best ideas to come from those who work on the front line. They live and breathe the processes that they perform every day. They feel the pain of any manual effort or unnecessary workarounds from errors and are also well suited to generate ideas for improvements. More importantly supporting these improvements help create ownership among those who need to help implement them. Bringing staff together for value stream mapping can not only be eye-opening for everyone to understand end-to-end processes, but revealing of the amount of waste to the business.  
 
-***How can Zen Consulting help?*** We provide:
+***How can Zen Consulting help?***
 
-- *Governance to De-Risk Process Transformation Projects*, [**read more**](/service/project-governance/)
+We provide:
+
+- *Business Analysis Support to Define Requirements*, [**read more**](/service/business-analysis/)
 
 - *Leadership to Facilitation the Lean Journey*, [**read more**](/service/process-excellence/)
 
+- *Governance to De-Risk Process Transformation Projects*, [**read more**](/service/project-governance/)
+
 - *Organisational Change Guidance to Manage Stakeholders*, [**read more**](/service/organisational-change/)
  
-- *Business Analysis Support to Define Requirements*, [**read more**](/service/business-analysis/)
 
 Zen Consulting has specialists who can help organisations through their journey towards being lean. We have proven methodologies that bring good practices.
 
-If you'd like more information on how Zen Consulting can benefit your business, please [**contact us**](contact/).
+If you'd like more information on how Zen Consulting can benefit your business, please [**contact us**](https://zenconsulting.co.nz/contact/).
