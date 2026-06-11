@@ -14,6 +14,7 @@ author: "Themefisher"
 # taxonomies
 categories: ["Governance"]
 tags: ["Lean"]
+draft: true
 ---
 
 # Heading 1
