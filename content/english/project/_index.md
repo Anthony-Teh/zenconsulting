@@ -1,6 +1,6 @@
 ---
 subtitle : "Zen Consulting Customer Stories"
-title : "Customer Stories"
+title : "Our Customers"
 # meta description
 description: "customer stories"
 # page title background image

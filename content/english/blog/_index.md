@@ -1,6 +1,6 @@
 ---
-subtitle : "Thought Leadership"
-title : "Latest Blog"
+subtitle : ""
+title : "Our thinking"
 # meta description
 description: "blog"
 # page title background image

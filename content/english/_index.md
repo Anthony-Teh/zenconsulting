@@ -204,7 +204,7 @@ cta:
 
 ################################# blog ################################################
 blog:
-  enable : false
+  enable : true
   section : "blog"
   show_item : 7
   # blog post comes from "content/*/blog" folder

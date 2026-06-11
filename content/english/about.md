@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Who we are"
 layout: "about"
 # meta description
 description: "project governance, process excellence, organisational change, business analysis"
