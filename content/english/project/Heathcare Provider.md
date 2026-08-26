@@ -32,7 +32,7 @@ Our engagement helped NZHG achieve the following outcomes:
 5. Presented assessments in detailed reports for further business casing and solution scoping and designing.
 
 >*"Working with Zen Consulting was informative as they helped us untangle the complexity in our processes and pinpoint what was really holding us back. Thanks to their skilled facilitation, we brought together stakeholders from across the business, built alignment, and made confident, enterprise-wide investment decisions.”*
->**Ramesh Vedachalam (Chief Financial Officer, NZ Health Group).**
+>**Ramesh Vedachalam (Chief Financial Officer, NZ Health Group)**
 
 ### Our Difference
 We provided key differentiators to traditional consulting approaches:

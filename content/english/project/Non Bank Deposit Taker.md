@@ -32,7 +32,7 @@ Through our engagement, NBS was able to achieve the following outcomes:
 4. Roadmap strategic decisions based on growth priorities.
 
 >*"Zen Consulting’s forward-thinking approach has helped us identify efficiencies and future opportunities. Their partnership has been instrumental in shaping our strategic roadmap.”* 
->**David Toon (Chief Financial Officer, Nelson Building Society).**
+>**David Toon (Chief Financial Officer, Nelson Building Society)**
 
 ### Our Difference
 We provided key differentiators to traditional consulting approaches:

@@ -18,7 +18,7 @@ status : "Completed"
 draft: false
 ---
 
-Pan Pac Forest Products Ltd provides sustainable and tailored forest products to domestic and international markets. Owned by Oji Group, a leader in the pulp and paper industry in Japan, Pan Pac has been growing, processing and delivering radiata products for over 50 years. In 2022, Pan Pac embarked on a company-wide digital transformation comprising of an ERP system implementation. This transformation provided Pan Pac with significant benefits such as simplification/standardisation/consistency of business processes, one source for key information and foundation for innovation with new technologies. However, there was equally significant risk to the business.
+Pan Pac Forest Products Ltd  (Pan Pac) provides sustainable and tailored forest products to domestic and international markets. Owned by Oji Group, a leader in the pulp and paper industry in Japan, Pan Pac has been growing, processing and delivering radiata products for over 50 years. In 2022, Pan Pac embarked on a company-wide digital transformation comprising of an ERP system implementation. This transformation provided Pan Pac with significant benefits such as simplification/standardisation/consistency of business processes, one source for key information and foundation for innovation with new technologies. However, there was equally significant risk to the business.
 
 ### The Challenge
 The digital transformation posed significant risk to Pan Pac’s business in terms of the impact to stakeholders and processes. Pan Pac needed a trusted advisor with experience of delivering similar scale and complexity projects to help mitigate the risks. We were engaged to provide project governance and quality assurance over the project.
@@ -32,7 +32,7 @@ Through our engagement, Pan Pac was able to achieve the following outcomes:
 5. Redesign of the IT function to support the ERP system in a BAU-state.
 
 >*"Zen Consulting has always given balanced, and considered advice based on their wide experience in ERP Implementations. Their ability to give good governance and risk advice has been a vital cog in the Project’s success. Also their ability to help with practical and pragmatic advice for BAU has been much appreciated.”* 
->**Ross McMillan (Chief Financial Officer, Pan Pac).**
+>**Ross McMillan (Chief Financial Officer, Pan Pac Forest Products)**
 
 ### Our Difference
 We provided key differentiators to traditional project governance support:
