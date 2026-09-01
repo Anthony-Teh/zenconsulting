@@ -132,7 +132,7 @@ testimonial:
     # testimonial item loop
     - client_image : "images/testimonial/panpac.jpg"
       name : "Ross McMillan"
-      designation : "Chief Financial Officer, Pan Pac"
+      designation : "Chief Financial Officer, Pan Pac Forest Products"
       content : "Zen Consulting has always given balanced, and considered advice based on their wide experience in ERP Implementations. Their ability to give good governance and risk advice has been a vital cog in the Project’s success. Also their ability to help with practical and pragmatic advice for BAU has been much appreciated."
 
     # testimonial item loop
@@ -146,6 +146,12 @@ testimonial:
       name : "Ramesh Vedachalam"
       designation : "Chief Financial Officer, NZ Health Group"
       content : "Working with Zen Consulting was informative as they helped us untangle the complexity in our processes and pinpoint what was really holding us back. Thanks to their skilled facilitation, we brought together stakeholders from across the business, built alignment, and made confident, enterprise-wide investment decisions."
+
+      # testimonial item loop
+    - client_image : "images/testimonial/tdc.jpg"
+      name : "Chris Blythe"
+      designation : "Programme Manager - Digital Services, Tasman District Council"
+      content : "Working with Zen Consulting has helped us take a significant leap forward with our benefits management approach. Rowan Teh ‘read the room’ well and provided significant uplift support across our programme, including sponsors, business analysts, product owners and project managers.  We have seen business owners and team members apply the learning immediately and we’ve made significant progress in an area we were struggling with before."
 
 ################################# feature ############################################
 feature:

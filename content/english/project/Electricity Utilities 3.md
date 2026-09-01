@@ -12,7 +12,7 @@ image: "images/project/utilities5.jpg"
 # client
 client: "New Zealand"
 # project category
-category: "Utilities"
+category: "Energy"
 # project status
 status : "Completed"
 draft: false
