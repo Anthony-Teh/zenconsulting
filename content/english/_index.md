@@ -150,8 +150,8 @@ testimonial:
       # testimonial item loop
     - client_image : "images/testimonial/tdc.jpg"
       name : "Chris Blythe"
-      designation : "Digital Innovation Programme Manager, Tasman District Council"
-      content : "Working with Zen Consulting was a turning point for us on our digital innovation programme. They brought authority from their deep knowledge and experience in benefits management and project delivery. They helped engage and align our stakeholders from IT and the business to strengthen our benefits definition and approach."
+      designation : "Programme Manager - Digital Services, Tasman District Council"
+      content : "Working with Zen Consulting has helped us take a significant leap forward with our benefits management approach. Rowan Teh ‘read the room’ well and provided significant uplift support across our programme, including sponsors, business analysts, product owners and project managers.  We have seen business owners and team members apply the learning immediately and we’ve made significant progress in an area we were struggling with before."
 
 ################################# feature ############################################
 feature:

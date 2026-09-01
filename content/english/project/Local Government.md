@@ -1,6 +1,6 @@
 ---
 title: "Local Government"
-date: 2026-07-28T01:00:00+06:00
+date: 2026-08-28T01:00:00+06:00
 # meta description
 description: "project governance"
 # page title background image
@@ -25,14 +25,14 @@ A key part of managing TDC’s digital innovation programme is their approach fo
 
 ### Key Outcomes
 Our engagement helped TDC achieve the following outcomes:
-1. Clear understanding of the current-state of how benefits are managed in projects and benchmarking to the industry
-2. Recommended improvement actions based on project management best practices
-3. Board and executive-level reporting for directing improvements
-4. Coaching and guiding Project Managers, Business Analysts, Product Owners and Project Sponsors on refinements to benefits management
+1. Clear understanding of the current-state of how benefits are managed in projects and benchmarking to the industry.
+2. Recommended improvement actions based on project management best practices.
+3. Board and executive-level reporting for directing improvements.
+4. Coaching and guiding Project Managers, Business Analysts, Product Owners and Project Sponsors on refinements to benefits management.
 
 
->*"Working with Zen Consulting was a turning point for us on our digital innovation programme. Rowan Teh brought authority from his deep knowledge and experience in benefits management and project delivery. He helped engage and align our stakeholders from IT and the business to strengthen our benefits definition and approach.”*
->**Chris Blythe (Digital Innovation Programme Manager, Tasman District Council)**
+>*"Working with Zen Consulting has helped us take a significant leap forward with our benefits management approach. Rowan Teh ‘read the room’ well and provided significant uplift support across our programme, including sponsors, business analysts, product owners and project managers.  We have seen business owners and team members apply the learning immediately and we’ve made significant progress in an area we were struggling with before.”*
+>**Chris Blythe (Programme Manager - Digital Services, Tasman District Council)**
 
 ### Our Difference
 We provided key differentiators to traditional consulting approaches:
@@ -42,6 +42,6 @@ We provided key differentiators to traditional consulting approaches:
 4. Strong focus on stakeholder alignment to activate improvements.
 
 ### Conclusion
-We delivered a detailed benefits review of a large-scale digital transformation programme and provided the necessary guidance to realign projects goals to key business outcomes. This provided our TDC with a strong benefits approach for their ongoing digital transformation journey.
+We delivered a detailed benefits review of a large-scale digital transformation programme and provided the necessary guidance to realign projects goals to key business outcomes. This provided TDC with a strong benefits approach for their digital transformation journey.
 
-If you’re looking for a trusted advisor for process excellence, with a difference, [**contact us**](https://zenconsulting.co.nz/contact/).
+If you’re looking for a trusted advisor for benefits management, with a difference, [**contact us**](https://zenconsulting.co.nz/contact/).
