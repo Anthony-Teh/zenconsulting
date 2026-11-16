@@ -15,7 +15,7 @@ client: "New Zealand"
 category: "Energy"
 # project status
 status : "Completed"
-draft: false
+draft: true
 ---
 
 The organisation specialises in xxx.
