@@ -1,6 +1,6 @@
 ---
 title: "Electricity Generation Retailer"
-date: 2026-11-31T10:47:55+06:00
+date: 2026-11-30T10:47:55+06:00
 # meta description
 description: "process excellence"
 # page title background image
